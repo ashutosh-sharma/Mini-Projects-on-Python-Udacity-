@@ -10,4 +10,4 @@ In order to use this program make sure you have access to Internet
 
 
 ۞ Can you change the program according to your wish?
--If you have basic knowledge of python and its in-built functions you can change this program according to yourself.
+-If you have basic knowledge of python and its in-built functions you can customize this program according to yourself.
